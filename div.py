@@ -1,3 +1,4 @@
 a=6
 b=2
-print(a//b)
+c=78
+print((a*c)//b)
